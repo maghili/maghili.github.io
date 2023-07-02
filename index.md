@@ -2,6 +2,9 @@
 layout: default
 ---
 
+### About Me:
+I have a Ph.D. in physics with concentration on Quantum Gravity. After graduation I decided to join industry. I joined ArborMetrix as a data engineer in 2019, and since then I have been working my way up the ladder in the data engineering and infrastructure world. I am a forward-thinking, fast-learner person who enjoys using his problem-solving skills from his times in physics to solve real-world problems.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
